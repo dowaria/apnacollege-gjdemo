@@ -1,3 +1,4 @@
 # apnacollege-gjdemo
 This is my first Git Repository
-Autor - Gourav Jain
+<br>
+Author - Gourav Jain
